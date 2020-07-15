@@ -1,0 +1,194 @@
+[
+	{
+		"flavor": "Earthy",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Chemical",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Pine",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Spicy/Herbal",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Pungent",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Pepper",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Flowery",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Citrus",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Orange",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Sweet",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Skunk",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Grape",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Minty",
+		"group": "Cool"
+	},
+	{
+		"flavor": "Woody",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Cheese",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Diesel",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Tropical",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Grapefruit",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Nutty",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Lemon",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Berry",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Blueberry",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Ammonia",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Apple",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Rose",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Butter",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Honey",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Tea",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Lime",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Lavender",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Strawberry",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Mint",
+		"group": "Cool"
+	},
+	{
+		"flavor": "Chestnut",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Tree Fruit",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Pear",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Apricot",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Peach",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Blue Cheese",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Menthol",
+		"group": "Cool"
+	},
+	{
+		"flavor": "Coffee",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Tar",
+		"group": "Strong"
+	},
+	{
+		"flavor": "Mango",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Pineapple",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Sage",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Vanilla",
+		"group": "Sweet"
+	},
+	{
+		"flavor": "Plum",
+		"group": "Fruity"
+	},
+	{
+		"flavor": "Tobacco",
+		"group": "Natural"
+	},
+	{
+		"flavor": "Violet",
+		"group": "Natural"
+	}
+]
